@@ -1,2 +1,2 @@
 # Deep-Learning
-something about DL
+Notebook about Deep Learning
